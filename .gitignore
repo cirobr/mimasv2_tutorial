@@ -11,6 +11,3 @@ ledswitch*
 !ledswitch.bin
 !ledswitch.ucf
 !ledswitch.vhd
-
-*.html
-webtalk*.*
