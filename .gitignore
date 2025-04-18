@@ -12,6 +12,10 @@ ledswitch*
 !ledswitch.ucf
 !ledswitch.vhd
 
+# project
+*.gise
+*.gise.*
+
 # files
 par_usage_statistics.html
 *webtalk*.*
