@@ -1,8 +1,10 @@
 # folders
 _ngo/
 _xmsgs/
+_xmsgs.old/
 ipcore_dir/
 iseconfig/
+iseconfig.old/
 xlnx_auto_0_xdb/
 xst/
 
