@@ -3,7 +3,7 @@
 Very simple VHDL project for Xilinx Spartan6 MIMAS V2 SDK
 
 
-## Main files
+### Main files
 * ledswitch.vhd
 * ledswitch.ucf
 
