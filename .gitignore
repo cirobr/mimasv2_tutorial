@@ -1,0 +1,10 @@
+_ngo/
+_xmsgs/
+ipcore_dir/
+xlnx_auto_0_xdb/
+xst/
+
+ledswitch*
+!ledswitch.bin
+!ledswitch.ucf
+!ledswitch.vhd
