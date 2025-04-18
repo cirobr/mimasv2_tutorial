@@ -1,0 +1,17 @@
+# subfolders
+_ngo/
+_xmsgs/
+ipcore_dir/
+iseconfig/
+xlnx_auto_0_xdb/
+xst/
+
+# instances
+ledswitch*
+!ledswitch.bin
+!ledswitch.ucf
+!ledswitch.vhd
+
+# files
+par_usage_statistics.html
+*webtalk*.*

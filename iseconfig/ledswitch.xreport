@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2025-04-18T16:13:03</DateModified>
+  <DateModified>2025-04-18T16:18:07</DateModified>
   <ModuleName>ledswitch</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/ciro/projects/mimasv2_tutorial/iseconfig/ledswitch.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/ciro/projects/mimasv2_tutorial</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/ciro/projects/mimasv2_tutorial/</ImplementationReportsDirectory>
   <DateInitialized>2025-04-18T16:13:03</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
