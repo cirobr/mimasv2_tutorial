@@ -10,7 +10,3 @@ ledswitch*
 !ledswitch.bin
 !ledswitch.ucf
 !ledswitch.vhd
-
-# project files
-*.gise
-*.xise
