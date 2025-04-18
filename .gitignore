@@ -2,6 +2,7 @@
 _ngo/
 _xmsgs/
 ipcore_dir/
+iseconfig/
 xlnx_auto_0_xdb/
 xst/
 
@@ -10,3 +11,6 @@ ledswitch*
 !ledswitch.bin
 !ledswitch.ucf
 !ledswitch.vhd
+
+*.html
+webtalk*.*
