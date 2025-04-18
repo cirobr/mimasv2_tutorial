@@ -1,6 +1,9 @@
 # MIMAS V2 Tutorial
 
-Very simple VHDL project for Xilinx Spartan6 MIMAS V2 SDK
+Very simple VHDL project
+* Xilinx Spartan6 MIMAS V2 SDK
+* ISE Project Navigator 14.7
+* Ubuntu 22.04
 
 
 ### Main files
