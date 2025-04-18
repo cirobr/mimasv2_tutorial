@@ -3,7 +3,12 @@
 Very simple VHDL project for Xilinx Spartan6 MIMAS V2 SDK
 
 
-## Tutorial links
+## Main files
+* ledswitch.vhd
+* ledswitch.ucf
+
+
+### Tutorial links
 
 https://langster1980.blogspot.com/2014/12/numato-mima-v2-tutorial.html
 
