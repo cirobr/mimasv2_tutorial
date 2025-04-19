@@ -39,7 +39,7 @@ end ledswitch;
 architecture Behavioral of ledswitch is
 
 begin
-	LED1 <= DIP1;
-	LED2 <= DIP2;
+	LED1 <= not (DIP1);
+	LED2 <= not (DIP2);
 end Behavioral;
 

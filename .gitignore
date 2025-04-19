@@ -11,6 +11,7 @@ ledswitch*
 !ledswitch.bin
 !ledswitch.ucf
 !ledswitch.vhd
+!ledswitch_summary.html
 
 # project
 *.gise
